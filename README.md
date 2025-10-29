@@ -58,7 +58,7 @@ A full-stack MERN application to help students track their daily study sessions,
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/smart-study-tracker.git
+git clone https://github.com/FaizanSyntaX/smart-study-tracker.git
 cd smart-study-tracker
 ```
 
